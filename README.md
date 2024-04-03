@@ -1,8 +1,8 @@
 # project1
 <!DOCTYPE html>
-<html>
+<html> newthis
 <head>
-this is my project of csss html game
+this is my project of csss html game 
 <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
 <style>
 canvas {
