@@ -137,3 +137,5 @@ function accelerate(n) {
 <p>How long can you stay alive?</p>
 </body>
 </html>
+
+change made by dev 2
