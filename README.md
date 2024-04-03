@@ -1,6 +1,6 @@
 # project1
 <!DOCTYPE html>
-<html>ok
+<html>ok content added
 <head>
 this is my project of csss html game
 <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
