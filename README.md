@@ -1,6 +1,11 @@
 # project1
+<<<<<<< HEAD
 <!DOCTYPE html> 
 <html> newthis contet added
+=======
+<!DOCTYPE html>
+<html>ok content added
+>>>>>>> newbranch
 <head>
 this is my project of csss html game 
 <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
@@ -139,3 +144,4 @@ function accelerate(n) {
 </html>
 
 change made by dev 2
+changes ag
